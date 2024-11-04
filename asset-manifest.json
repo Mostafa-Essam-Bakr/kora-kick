@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kora-kick/static/css/main.08fa4876.css",
-    "main.js": "/kora-kick/static/js/main.4020b9bd.js",
+    "main.css": "/kora-kick/static/css/main.ed723fe0.css",
+    "main.js": "/kora-kick/static/js/main.b6278731.js",
     "static/js/453.05ea3c99.chunk.js": "/kora-kick/static/js/453.05ea3c99.chunk.js",
     "static/media/logo.png": "/kora-kick/static/media/logo.cf81b4818a28f25d8217.png",
     "static/media/bg1.jpg": "/kora-kick/static/media/bg1.02d36b45512a70784634.jpg",
@@ -11,12 +11,12 @@
     "static/media/bg2.jpg": "/kora-kick/static/media/bg2.1f660c1a4d870fa62cbf.jpg",
     "static/media/bg3.jpg": "/kora-kick/static/media/bg3.593946903768866886ed.jpg",
     "index.html": "/kora-kick/index.html",
-    "main.08fa4876.css.map": "/kora-kick/static/css/main.08fa4876.css.map",
-    "main.4020b9bd.js.map": "/kora-kick/static/js/main.4020b9bd.js.map",
+    "main.ed723fe0.css.map": "/kora-kick/static/css/main.ed723fe0.css.map",
+    "main.b6278731.js.map": "/kora-kick/static/js/main.b6278731.js.map",
     "453.05ea3c99.chunk.js.map": "/kora-kick/static/js/453.05ea3c99.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.08fa4876.css",
-    "static/js/main.4020b9bd.js"
+    "static/css/main.ed723fe0.css",
+    "static/js/main.b6278731.js"
   ]
 }
