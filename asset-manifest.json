@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/kora-kick/static/css/main.ed723fe0.css",
-    "main.js": "/kora-kick/static/js/main.b6278731.js",
+    "main.css": "/kora-kick/static/css/main.1ba7a043.css",
+    "main.js": "/kora-kick/static/js/main.09945dfd.js",
     "static/js/453.05ea3c99.chunk.js": "/kora-kick/static/js/453.05ea3c99.chunk.js",
-    "static/media/logo.png": "/kora-kick/static/media/logo.cf81b4818a28f25d8217.png",
+    "static/media/logo.png": "/kora-kick/static/media/logo.e96e6fe21cc8e35fe12e.png",
     "static/media/bg1.jpg": "/kora-kick/static/media/bg1.02d36b45512a70784634.jpg",
     "static/media/bg5.jpg": "/kora-kick/static/media/bg5.b86ff9cc054879427314.jpg",
     "static/media/bg4.jpg": "/kora-kick/static/media/bg4.c6587ba4d5d2957b7972.jpg",
     "static/media/bg6.jpg": "/kora-kick/static/media/bg6.77b4ce2a9b1a3a24c7aa.jpg",
     "static/media/bg2.jpg": "/kora-kick/static/media/bg2.1f660c1a4d870fa62cbf.jpg",
     "static/media/bg3.jpg": "/kora-kick/static/media/bg3.593946903768866886ed.jpg",
+    "static/media/logoball.png": "/kora-kick/static/media/logoball.ed4f2304ce5a954c738d.png",
+    "static/media/bg10.jpg": "/kora-kick/static/media/bg10.b608497e417642a63f68.jpg",
     "index.html": "/kora-kick/index.html",
-    "main.ed723fe0.css.map": "/kora-kick/static/css/main.ed723fe0.css.map",
-    "main.b6278731.js.map": "/kora-kick/static/js/main.b6278731.js.map",
+    "main.1ba7a043.css.map": "/kora-kick/static/css/main.1ba7a043.css.map",
+    "main.09945dfd.js.map": "/kora-kick/static/js/main.09945dfd.js.map",
     "453.05ea3c99.chunk.js.map": "/kora-kick/static/js/453.05ea3c99.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed723fe0.css",
-    "static/js/main.b6278731.js"
+    "static/css/main.1ba7a043.css",
+    "static/js/main.09945dfd.js"
   ]
 }
